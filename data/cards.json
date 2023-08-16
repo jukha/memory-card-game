@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../assets/bale.png",
+        "name": "bale"
+    },
+    {
+        "image": "../assets/haaland.png",
+        "name": "haaland"
+    },
+    {
+        "image": "../assets/kdb.png",
+        "name": "kdb"
+    },
+    {
+        "image": "../assets/levi.png",
+        "name": "levi"
+    },
+    {
+        "image": "../assets/mbappe.png",
+        "name": "mbappe"
+    },
+    {
+        "image": "../assets/messi.png",
+        "name": "messi"
+    },
+    {
+        "image": "../assets/neymar.png",
+        "name": "neymar"
+    },
+    {
+        "image": "../assets/ronaldo.png",
+        "name": "ronaldo"
+    },
+    {
+        "image": "../assets/zidane.png",
+        "name": "zidane"
+    }
+]
